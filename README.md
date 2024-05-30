@@ -1,4 +1,4 @@
-# Object-Centric Process Mining with PM4Py
+# Object-Centric Process Discovery with PM4Py
 
 This repository contains a Python script that demonstrates the use of PM4Py for object-centric process mining. The script processes an Object-Centric Event Log (OCEL) and applies both object-centric and classical process mining techniques to discover Petri nets.
 
@@ -19,6 +19,7 @@ Install PM4Py using pip:
 
 ```bash
 pip install pm4py
+```
 
 ## Usage
 
