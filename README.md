@@ -25,13 +25,13 @@ pip install pm4py
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/nievelstone/discovering-object-centric-petri-nets.git
    cd your-repository
 
 2. **Running the Script**:
-   - Place your OCEL file named `running_example.xmlocel` in the script's directory or modify the script to point to the location of your OCEL file.
+   - Use the OCEL file of the term paper or place your own OCEL file named `running_example.xmlocel` in the script's directory.
    - Run the script:
    ```bash
-   python script_name.py
+   python discovery_example.py
 
 The script will output the results directly to your console, and visualizations will appear in separate windows if all operations complete successfully.
